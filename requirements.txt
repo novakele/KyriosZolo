@@ -68,7 +68,7 @@ mccabe==0.6.1
 multidict==4.5.2
 nodeenv==1.3.5
 numpy==1.16.4
--e git+https://github.com/novakele/KyriosZolo#egg=OvisBot
+-e git+https://github.com/novakele/KyriosZolo.git#egg=OvisBot
 packaging==20.3
 parse==1.15.0
 pathspec==0.7.0
